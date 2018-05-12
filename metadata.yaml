@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38704#La-case-de-l-oncle-Tom--13-ou-vie-des-n-gres-en-Am-rique
 gutenberg_bookshelf:
 - FR Littérature
 - FR Femmes
