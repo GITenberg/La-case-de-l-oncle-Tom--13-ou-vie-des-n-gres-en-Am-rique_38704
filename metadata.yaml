@@ -1,0 +1,53 @@
+_repo: La-case-de-l-oncle-Tom--13-ou-vie-des-n-gres-en-Am-rique_38704
+_version: 0.1.0
+alternative_title: Uncle Tom's Cabin. French
+contributor:
+  translator:
+    agent_name: Enault, Louis
+    alias: Énault, Louis
+    birthdate: 1824
+    deathdate: 1900
+    gutenberg_agent_id: '37889'
+    url: http://www.gutenberg.org/2009/agents/37889
+    wikipedia: http://fr.wikipedia.org/wiki/Louis_%C3%89nault
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Femmes
+gutenberg_issued: '2012-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38704'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Fiction'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Plantation life -- Fiction'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Slaves -- Fiction'
+- !lcsh 'Master and servant -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Didactic fiction'
+- !lcsh 'Uncle Tom (Fictitious character) -- Fiction'
+- !lcsh 'Fugitive slaves -- Fiction'
+- !lcsh 'Political fiction'
+title: La case de l'oncle Tom; ou, vie des nègres en Amérique
+url: http://www.gutenberg.org/ebooks/38704
